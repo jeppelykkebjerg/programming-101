@@ -3,3 +3,6 @@ This is just me learning programming concepts and principles without formal educ
 
 # Why?
 I want to become a better programmer alngside my career in data engineering and data architecture.
+
+# How?
+I keep my notes and textual descriptions in Notion and link to this Github repo. I use python as my language of choice for programming examples.
